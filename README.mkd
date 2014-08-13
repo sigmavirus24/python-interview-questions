@@ -1,0 +1,30 @@
+# Python Interview Questions
+
+This repository contains a number of Python interview questions that can be 
+used when vetting potential candidates. It is not advised to use every one of 
+these questions for the same candidate.
+
+## Basic Questions
+
+1. What is Python?
+
+1. Describe some features of Python.
+
+1. How does Python execute code?
+
+1. What are some built-in types in Python?
+
+## Intermediate Questions
+
+1. How can you improve the following code?
+
+```python
+import string
+
+i = 0
+for letter in string.letters:
+    print("The letter at index %i is %s" % (i, letter))
+    i = i + 1
+```
+
+  Bonus points for mentioning `enumerate` and use of `str.format`.
