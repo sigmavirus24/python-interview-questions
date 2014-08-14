@@ -18,16 +18,16 @@ these questions for the same candidate.
 
 1. How can you improve the following code?
 
-```python
-import string
+   ```python
+   import string
 
-i = 0
-for letter in string.letters:
-    print("The letter at index %i is %s" % (i, letter))
-    i = i + 1
-```
+   i = 0
+   for letter in string.letters:
+       print("The letter at index %i is %s" % (i, letter))
+       i = i + 1
+   ```
 
-  Bonus points for mentioning `enumerate` and use of `str.format`.
+   Bonus points for mentioning `enumerate` and use of `str.format`.
 
 2. What's the fastest way to swap the values bound to two variables?
 
