@@ -28,3 +28,17 @@ for letter in string.letters:
 ```
 
   Bonus points for mentioning `enumerate` and use of `str.format`.
+
+2. What's the fastest way to swap the values bound to two variables?
+
+3. What is the importance of reference counting?
+
+4. Do functions (or methods) return something even if there isn't a `return`
+   statement? If so, what do they return?
+
+5. How can you return multiple values from a function/method?
+
+## Advanced
+
+1. What are bindings, i.e., what does it mean for a value to be bound to a
+   variable?
