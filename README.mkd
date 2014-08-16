@@ -14,6 +14,10 @@ these questions for the same candidate.
 
 1. What are some built-in types in Python?
 
+1. How do you create a list?
+
+1. How do you create a dictionary?
+
 ## Intermediate Questions
 
 1. How can you improve the following code?
@@ -37,6 +41,10 @@ these questions for the same candidate.
    statement? If so, what do they return?
 
 1. How can you return multiple values from a function/method?
+
+1. What is a list comprehension? Why would you use one?
+
+1. What is a generator? What can it be used for?
 
 ## Advanced
 
