@@ -29,14 +29,14 @@ these questions for the same candidate.
 
    Bonus points for mentioning `enumerate` and use of `str.format`.
 
-2. What's the fastest way to swap the values bound to two variables?
+1. What's the fastest way to swap the values bound to two variables?
 
-3. What is the importance of reference counting?
+1. What is the importance of reference counting?
 
-4. Do functions (or methods) return something even if there isn't a `return`
+1. Do functions (or methods) return something even if there isn't a `return`
    statement? If so, what do they return?
 
-5. How can you return multiple values from a function/method?
+1. How can you return multiple values from a function/method?
 
 ## Advanced
 
