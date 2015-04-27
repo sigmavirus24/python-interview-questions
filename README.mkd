@@ -18,7 +18,7 @@ these questions for the same candidate.
 
 1. How do you create a dictionary?
 
-## Intermediate Questions
+## Intermediate/Advanced Questions
 
 1. How can you improve the following code?
 
@@ -46,7 +46,19 @@ these questions for the same candidate.
 
 1. What is a generator? What can it be used for?
 
-## Advanced
+1. How do you reverse a list? Can you come up with at least three ways? 
+
+1. How would you merge two sorted lists? They can be any length, or empty. 
+
+1. How would you count the lines in a file? How would you do it if the file was too big to hold in memory?
 
 1. What are bindings, i.e., what does it mean for a value to be bound to a
    variable?
+
+1. What happens if you have an error in an __init__ statement? 
+
+1. What is inheritance? 
+
+1. What happens in python if you try to divide by zero?
+
+1. 
