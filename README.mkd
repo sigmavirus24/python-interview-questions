@@ -4,7 +4,7 @@ This repository contains a number of Python interview questions that can be
 used when vetting potential candidates. It is not advised to use every one of 
 these questions for the same candidate.
 
-## Basic Questions
+## Descriptive/Vocabulary Questions
 
 1. What is Python?
 
@@ -14,11 +14,24 @@ these questions for the same candidate.
 
 1. What are some built-in types in Python?
 
+1. What are bindings, i.e., what does it mean for a value to be bound to a
+   variable?
+
+## Usage Questions
+
 1. How do you create a list?
 
 1. How do you create a dictionary?
 
-## Intermediate/Advanced Questions
+1. What is a list comprehension? Why would you use one?
+
+1. What is a generator? What can it be used for?
+
+1. What is inheritance? 
+
+1. What happens if you have an error in an __init__ statement? 
+
+1. What happens in python if you try to divide by zero?
 
 1. How can you improve the following code?
 
@@ -33,6 +46,10 @@ these questions for the same candidate.
 
    Bonus points for mentioning `enumerate` and use of `str.format`.
 
+1. How can you return multiple values from a function/method?
+
+## Strategic Questions
+
 1. What's the fastest way to swap the values bound to two variables?
 
 1. What is the importance of reference counting?
@@ -40,25 +57,13 @@ these questions for the same candidate.
 1. Do functions (or methods) return something even if there isn't a `return`
    statement? If so, what do they return?
 
-1. How can you return multiple values from a function/method?
-
-1. What is a list comprehension? Why would you use one?
-
-1. What is a generator? What can it be used for?
-
 1. How do you reverse a list? Can you come up with at least three ways? 
 
 1. How would you merge two sorted lists? They can be any length, or empty. 
 
 1. How would you count the lines in a file? How would you do it if the file was too big to hold in memory?
 
-1. What are bindings, i.e., what does it mean for a value to be bound to a
-   variable?
 
-1. What happens if you have an error in an __init__ statement? 
 
-1. What is inheritance? 
 
-1. What happens in python if you try to divide by zero?
 
-1. 
