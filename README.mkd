@@ -6,8 +6,8 @@ these questions for the same candidate.
 
 ## Table of Contents
 
-  1. [General Questions](#Descriptive/Vocabulary Questions)
-  1. [HTML Questions](#html-questions)
+  1. [General Questions](#general-questions)
+  1. [Usage Questions](#usage-questions)
   1. [CSS Questions](#css-questions)
   1. [JS Questions](#js-questions)
   1. [Network Questions](#network-questions)
@@ -15,7 +15,7 @@ these questions for the same candidate.
   1. [Fun Questions](#fun-questions)
 
 
-## Descriptive/Vocabulary Questions
+### General Questions:
 
 1. What is Python?
 
@@ -34,10 +34,7 @@ these questions for the same candidate.
 
 
 
-
-
-
-## Usage Questions
+### Usage Questions:
 
 1. How do you create a list?
 
@@ -68,7 +65,7 @@ these questions for the same candidate.
 
 1. How can you return multiple values from a function/method?
 
-1. What is the meaning of *x and **y in following code snippet?
+1. What is the meaning of **x and ***y in following code snippet?
 
    ```python
    def foo(*x, **y):
@@ -86,7 +83,7 @@ these questions for the same candidate.
    print(list[:2:-1])
    ```
 
-## Strategic Questions
+### Strategic Questions
 
 1. What's the fastest way to swap the values bound to two variables?
 
