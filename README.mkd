@@ -4,6 +4,17 @@ This repository contains a number of Python interview questions that can be
 used when vetting potential candidates. It is not advised to use every one of 
 these questions for the same candidate.
 
+## Table of Contents
+
+  1. [General Questions](#Descriptive/Vocabulary Questions)
+  1. [HTML Questions](#html-questions)
+  1. [CSS Questions](#css-questions)
+  1. [JS Questions](#js-questions)
+  1. [Network Questions](#network-questions)
+  1. [Coding Questions](#coding-questions)
+  1. [Fun Questions](#fun-questions)
+
+
 ## Descriptive/Vocabulary Questions
 
 1. What is Python?
@@ -16,6 +27,15 @@ these questions for the same candidate.
 
 1. What are bindings, i.e., what does it mean for a value to be bound to a
    variable?
+
+1. What is the recommended way of string concatenation in Python?
+
+1. What is the recommended way of string interpolation in Python?
+
+
+
+
+
 
 ## Usage Questions
 
@@ -47,6 +67,24 @@ these questions for the same candidate.
    Bonus points for mentioning `enumerate` and use of `str.format`.
 
 1. How can you return multiple values from a function/method?
+
+1. What is the meaning of *x and **y in following code snippet?
+
+   ```python
+   def foo(*x, **y):
+       pass
+   ```
+   
+1. How to invert key and values in dictionary?
+
+1. What is the difference between range and xrange in Python 2?
+
+1. What is the output of following code snippet?
+
+   ```python
+   lst = ['a', 'b', 'c', 'd', 'e']
+   print(list[:2:-1])
+   ```
 
 ## Strategic Questions
 
