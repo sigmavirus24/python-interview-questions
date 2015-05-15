@@ -8,14 +8,10 @@ these questions for the same candidate.
 
   1. [General Questions](#general-questions)
   1. [Usage Questions](#usage-questions)
-  1. [CSS Questions](#css-questions)
-  1. [JS Questions](#js-questions)
-  1. [Network Questions](#network-questions)
-  1. [Coding Questions](#coding-questions)
-  1. [Fun Questions](#fun-questions)
+  1. [Strategic Questions](#strategic-questions)
+  
 
-
-### General Questions:
+## General Questions
 
 1. What is Python?
 
@@ -34,7 +30,7 @@ these questions for the same candidate.
 
 
 
-### Usage Questions:
+## Usage Questions
 
 1. How do you create a list?
 
@@ -83,7 +79,7 @@ these questions for the same candidate.
    print(list[:2:-1])
    ```
 
-### Strategic Questions
+## Strategic Questions
 
 1. What's the fastest way to swap the values bound to two variables?
 
