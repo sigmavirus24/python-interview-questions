@@ -4,7 +4,14 @@ This repository contains a number of Python interview questions that can be
 used when vetting potential candidates. It is not advised to use every one of 
 these questions for the same candidate.
 
-## Descriptive/Vocabulary Questions
+## Table of Contents
+
+  1. [General Questions](#general-questions)
+  1. [Usage Questions](#usage-questions)
+  1. [Strategic Questions](#strategic-questions)
+  
+
+## General Questions
 
 1. What is Python?
 
@@ -16,6 +23,14 @@ these questions for the same candidate.
 
 1. What are bindings, i.e., what does it mean for a value to be bound to a
    variable?
+
+1. What is the recommended way of string concatenation in Python?
+
+1. What is the recommended way of string interpolation in Python?
+
+1. What is introspection in Python?
+
+1. What is monkey patching in Python?
 
 ## Usage Questions
 
@@ -48,6 +63,28 @@ these questions for the same candidate.
 
 1. How can you return multiple values from a function/method?
 
+1. What is the meaning of **x and ***y in following code snippet?
+
+   ```python
+   def foo(*x, **y):
+       pass
+   ```
+   
+1. How to invert key and values in dictionary?
+
+1. What is the difference between range and xrange in Python 2?
+
+1. What is the output of following code snippet?
+
+   ```python
+   lst = ['a', 'b', 'c', 'd', 'e']
+   print(list[:2:-1])
+   ```
+
+1. Why it is a bad idea to pass list or dictionary as default value for function argument?
+
+1. What Python comparison operators do you know?
+
 ## Strategic Questions
 
 1. What's the fastest way to swap the values bound to two variables?
@@ -62,8 +99,3 @@ these questions for the same candidate.
 1. How would you merge two sorted lists? They can be any length, or empty. 
 
 1. How would you count the lines in a file? How would you do it if the file was too big to hold in memory?
-
-
-
-
-
