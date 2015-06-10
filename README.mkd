@@ -30,6 +30,8 @@ these questions for the same candidate.
 
 1. What is introspection in Python?
 
+1. What is monkey patching in Python?
+
 ## Usage Questions
 
 1. How do you create a list?
@@ -79,6 +81,10 @@ these questions for the same candidate.
    print(list[:2:-1])
    ```
 
+1. Why it is a bad idea to pass list or dictionary as default value for function argument?
+
+1. What Python comparison operators do you know?
+
 ## Strategic Questions
 
 1. What's the fastest way to swap the values bound to two variables?
@@ -93,8 +99,3 @@ these questions for the same candidate.
 1. How would you merge two sorted lists? They can be any length, or empty. 
 
 1. How would you count the lines in a file? How would you do it if the file was too big to hold in memory?
-
-
-
-
-
