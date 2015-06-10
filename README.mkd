@@ -28,8 +28,6 @@ these questions for the same candidate.
 
 1. What is the recommended way of string interpolation in Python?
 
-1. What is list comprehension in Python?
-
 1. What is introspection in Python?
 
 ## Usage Questions
